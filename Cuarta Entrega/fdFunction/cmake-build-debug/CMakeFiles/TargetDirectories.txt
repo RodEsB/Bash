@@ -1,0 +1,3 @@
+/Users/rod/CLionProjects/fdFunction/cmake-build-debug/CMakeFiles/fdFunction.dir
+/Users/rod/CLionProjects/fdFunction/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rod/CLionProjects/fdFunction/cmake-build-debug/CMakeFiles/rebuild_cache.dir

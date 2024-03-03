@@ -1,0 +1,3 @@
+/Users/rod/CLionProjects/writeArchives/cmake-build-debug/CMakeFiles/writeArchives.dir
+/Users/rod/CLionProjects/writeArchives/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rod/CLionProjects/writeArchives/cmake-build-debug/CMakeFiles/rebuild_cache.dir
