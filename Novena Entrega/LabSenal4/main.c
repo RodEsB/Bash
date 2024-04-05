@@ -19,7 +19,6 @@ int main() {
 
         if (pid_c == 0) {
             printf("C esperando una señal\n");
-            while(1);
         } else {
             sleep(1);
             kill(pid_c, SIGKILL);
