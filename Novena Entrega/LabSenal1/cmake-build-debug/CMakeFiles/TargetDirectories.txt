@@ -1,0 +1,3 @@
+/Users/rod/CLionProjects/LabSenal1/cmake-build-debug/CMakeFiles/LabSenal1.dir
+/Users/rod/CLionProjects/LabSenal1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rod/CLionProjects/LabSenal1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
