@@ -1,0 +1,3 @@
+/Users/rod/CLionProjects/counterThreads/cmake-build-debug/CMakeFiles/counterThreads.dir
+/Users/rod/CLionProjects/counterThreads/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rod/CLionProjects/counterThreads/cmake-build-debug/CMakeFiles/rebuild_cache.dir
