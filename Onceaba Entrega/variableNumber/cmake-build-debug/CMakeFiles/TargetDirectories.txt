@@ -1,0 +1,3 @@
+/Users/rod/CLionProjects/variableNumber/cmake-build-debug/CMakeFiles/variableNumber.dir
+/Users/rod/CLionProjects/variableNumber/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rod/CLionProjects/variableNumber/cmake-build-debug/CMakeFiles/rebuild_cache.dir
